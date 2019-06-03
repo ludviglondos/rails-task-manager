@@ -1,0 +1,23 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.div-details {
+
+  background-color: #C4BBB8;
+  width: 250px;
+  height: 100px;
+  display: flex;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.div-add {
+  border-top: 1px solid grey;
+}
+
+a {
+  text-decoration: none;
+}
